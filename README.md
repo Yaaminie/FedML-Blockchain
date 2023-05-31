@@ -13,4 +13,5 @@ Step 2 - Navigate to Data in Right panel.
 Step 3 - click on add data and search for Skin Cancer: Malignant vs. Benign by CLAUDIO FANCONI 
   
 ```
-## Notebook 1 - Federated Aggregation Algorithm - FedAvg.
+### Notebook 1 - Federated Aggregation Algorithm - FedAvg.
+### Notebook 1 - Federated Aggregation Algorithm - FedProx.
